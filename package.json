@@ -1,5 +1,5 @@
 {
-  "name": "helloworld",
+  "name": "react-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -20,3 +20,5 @@
     "webpack-dev-server": "^1.14.1"
   }
 }
+
+
